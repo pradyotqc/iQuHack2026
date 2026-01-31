@@ -1,1 +1,1 @@
-# MIT Hackathon
+# MIT iQuHackathon2026
